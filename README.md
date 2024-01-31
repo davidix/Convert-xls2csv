@@ -23,7 +23,7 @@ This script uses the `concurrent.futures.ProcessPoolExecutor` to parallelize the
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/excel-to-csv-converter.git
+    git clone https://github.com/davidix/Convert-xls2csv.git
     ```
 
 2. Navigate to the project directory:
